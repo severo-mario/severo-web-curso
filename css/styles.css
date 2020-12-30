@@ -1,0 +1,70 @@
+/* ELEMENTS */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #151522;
+}
+
+
+
+/* IDS */
+
+
+
+/* CLASS */
+.index-header {
+    background-color: #187e92;
+    height: 50px;
+    width: 100%;
+    font-size: 25px;
+    color: white;
+    text-align: right;
+    line-height: 50px;
+}
+
+.index-header-span {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.index-header-span:hover {
+    background-color: white;
+    color: #187e92;
+    cursor: pointer;
+}
+
+.index-section-01 {
+    box-sizing: border-box;
+    background-color: white;
+    width: 90%;
+    height: 40%;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
+.index-section-01-div-img-pc {
+    width: 30%;
+    margin: 50px;
+}
+
+.index-section-01-content {
+    display: inline-block;
+    width: 58%;
+    vertical-align: top;
+    margin-top: 5%;
+    text-align: justify;
+    font-size: 16px;
+}
+
+.js {
+    width: 90px;
+    margin-bottom: 2px;
+}
