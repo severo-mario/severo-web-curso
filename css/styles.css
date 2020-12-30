@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #151522;
+    background-color: #323233;
 }
 
 
@@ -18,7 +18,7 @@ body {
 
 /* CLASS */
 .index-header {
-    background-color: #187e92;
+    background-color: #25B7D3;
     height: 50px;
     width: 100%;
     font-size: 25px;
@@ -28,8 +28,10 @@ body {
 }
 
 .index-header-span {
-    padding-right: 10px;
-    padding-left: 10px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: 550;
 }
 
 .index-header-span:hover {
@@ -67,4 +69,9 @@ body {
 .js {
     width: 90px;
     margin-bottom: 2px;
+}
+
+.index-section-01-img:hover {
+    border-radius: 50%;
+    box-shadow: 2px 2px gray;
 }
