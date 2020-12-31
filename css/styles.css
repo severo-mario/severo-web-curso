@@ -43,7 +43,6 @@ body {
 }
 
 .index-section-01 {
-    box-sizing: border-box;
     background-color: white;
     width: 90%;
     height: 40%;
@@ -76,4 +75,9 @@ body {
 .index-section-01-img:hover {
     border-radius: 50%;
     box-shadow: 2px 2px gray;
+}
+
+.index-section-01-content-msevero {
+    color: blue;
+    text-decoration: none;
 }
