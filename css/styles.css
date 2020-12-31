@@ -81,3 +81,54 @@ body {
     color: blue;
     text-decoration: none;
 }
+
+.white-page {
+    background-color: white;
+    margin: 50px;
+    border-radius: 20px;
+    padding: 50px;
+    text-align: justify;
+}
+
+.conteudo-principal {
+    display: inline-block;
+}
+
+.list-of-lessons {
+    background-color: white;
+    margin: 50px auto;
+    width: 91%;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.list-of-lessons-h1 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.list-of-lessons-img {
+    display: block;
+    padding: 20px 0 0 0;
+    margin: 0 auto;
+}
+
+.list-of-list {
+    display: inline;
+    text-align: left;
+}
+
+.list-of-lessons-table {
+    margin-left: 50px;
+    border-spacing: 10px;
+}
+
+.list-of-lessons-a {
+    text-decoration: none;
+    color: blue;
+}
+
+.list-of-lessons-p {
+    margin: 20px 50px;
+    text-align: justify;
+}
