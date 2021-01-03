@@ -17,7 +17,10 @@ code {
 /* CLASS */
 .header {
     background-color: #F1C40F;
-    height: 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
     text-align: right;
 }
 
@@ -49,7 +52,7 @@ code {
     height: fit-content;
     width: 90%;
     border-radius: 20px;
-    margin: 50px auto;
+    margin: 100px auto 50px auto;
     padding-bottom: 50px;
 }
 
