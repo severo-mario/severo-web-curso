@@ -90,10 +90,17 @@ code {
     color: blue;
 }
 
+.lesson-image-top {
+    padding-top: 25px;
+}
+
 .lesson-image {
     display: block;
-    padding-top: 25px;
-    margin: 10px auto;
+    margin: 25px auto;
+}
+
+.lesson-image-shadow {
+    box-shadow: 2px 2px 5px gray;
 }
 
 .lesson-h1 {
@@ -128,3 +135,4 @@ code {
     border-left: 5px solid rgb(238, 238, 24);
     padding: 25px;
 }
+
